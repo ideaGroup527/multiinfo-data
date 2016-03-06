@@ -1,0 +1,41 @@
+{
+	"ret_code": "",
+	"ret_msg": "",
+	"ret_err": "",
+	"resDataMap": {
+		"湿度": {
+			"resultData": {
+				"max": 33.3,
+				"min": 6.4,
+				"arithmeticMean": 19.349999999999998,
+				"variance": 122.53666666666663,
+				"standardDeviation": 11.069628117812568,
+				"total": 77.4,
+				"skewness": 0.26318984170841914,
+				"kurtosis": 1.1547022499972481
+			},
+			"varietyName": null,
+			"typeDes": null,
+			"type": null,
+			"typeFormat": null
+		},
+		"降水": {
+			"resultData": {
+				"max": 200.0,
+				"min": 100.0,
+				"arithmeticMean": 150.0,
+				"variance": 1666.6666666666667,
+				"standardDeviation": 40.824829046386306,
+				"total": 600.0,
+				"skewness": 0.0,
+				"kurtosis": 1.4999999999999947
+			},
+			"varietyName": null,
+			"typeDes": null,
+			"type": null,
+			"typeFormat": null
+		}
+	},
+	"resultType": null,
+	"reportTitle": null
+}

@@ -1,0 +1,153 @@
+{
+	"variableList": [{
+		"position": "B",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"varietyName": "降水",
+		"range": "B2:B5"
+	},
+	{
+		"position": "C",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"varietyName": "湿度",
+		"range": "C2:C5"
+	}],
+	"dataGrid": [[{
+		"position": "A1",
+		"positionDes": "A,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "地点",
+		"mergedRange": ""
+	},
+	{
+		"position": "C1",
+		"positionDes": "C,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "湿度",
+		"mergedRange": ""
+	},
+	{
+		"position": null,
+		"positionDes": null,
+		"typeDes": null,
+		"type": null,
+		"typeFormat": null,
+		"data": null,
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A2",
+		"positionDes": "A,2",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "北京",
+		"mergedRange": ""
+	},
+	{
+		"position": "B2",
+		"positionDes": "B,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "100",
+		"mergedRange": ""
+	},
+	{
+		"position": "C2",
+		"positionDes": "C,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "20.4",
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A3",
+		"positionDes": "A,3",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "上海",
+		"mergedRange": ""
+	},
+	{
+		"position": "B3",
+		"positionDes": "B,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "200",
+		"mergedRange": ""
+	},
+	{
+		"position": "C3",
+		"positionDes": "C,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "17.3",
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A4",
+		"positionDes": "A,4",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "上海",
+		"mergedRange": ""
+	},
+	{
+		"position": "B4",
+		"positionDes": "B,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "150",
+		"mergedRange": ""
+	},
+	{
+		"position": "C4",
+		"positionDes": "C,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "33.3",
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A5",
+		"positionDes": "A,5",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "上海",
+		"mergedRange": ""
+	},
+	{
+		"position": "B5",
+		"positionDes": "B,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "150",
+		"mergedRange": ""
+	},
+	{
+		"position": "C5",
+		"positionDes": "C,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "6.4",
+		"mergedRange": ""
+	}]]
+}
