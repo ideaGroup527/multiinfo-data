@@ -1,5 +1,7 @@
 # multiinfo-data
 multiinfo所需要的材料数据
+线性回归:http://wenku.baidu.com/link?url=CM-rWYrbVEdLBcmtqZBkAlNvkWbH5Bu-glM90xif_Xc9eHmz--bvye0pKkOlrKkwxS1MHwmZvA67MDZP0YYjMj7MCXwVuULOSHgFxXFo1ZS
+
 Absolute deviation, 绝对离差
 Absolute number, 绝对数
 Absolute residuals, 绝对残差
