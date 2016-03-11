@@ -1,0 +1,40 @@
+{
+	"resDataMap": {
+		"Yi": [314.0,
+		473.0,
+		563.0,
+		747.0,
+		856.0,
+		943.0,
+		1308.0,
+		1871.0,
+		2265.0,
+		3038.0],
+		"Xi": [308.0,
+		443.0,
+		432.0,
+		572.0,
+		603.0,
+		624.0,
+		989.0,
+		1164.0,
+		1208.0,
+		1764.0]
+	},
+	"independentVariable": [{
+		"position": "B1",
+		"typeDes": null,
+		"type": null,
+		"typeFormat": null,
+		"varietyName": "Xi",
+		"range": "B2:B11"
+	}],
+	"dependentVariable": {
+		"position": "A1",
+		"typeDes": null,
+		"type": null,
+		"typeFormat": null,
+		"varietyName": "Yi",
+		"range": "A2:A11"
+	}
+}

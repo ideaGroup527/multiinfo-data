@@ -1,0 +1,216 @@
+{
+	"independentVariable": [{
+		"position": "B1",
+		"typeDes": null,
+		"type": null,
+		"typeFormat": null,
+		"varietyName": "Xi",
+		"range": "B2:B11"
+	}],
+	"dependentVariable": {
+		"position": "A1",
+		"typeDes": null,
+		"type": null,
+		"typeFormat": null,
+		"varietyName": "Yi",
+		"range": "A2:A11"
+	},
+	"dataGrid": [[{
+		"position": "A1",
+		"positionDes": "A,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "Yi",
+		"mergedRange": ""
+	},
+	{
+		"position": "B1",
+		"positionDes": "B,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "Xi",
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A2",
+		"positionDes": "A,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 314.0,
+		"mergedRange": ""
+	},
+	{
+		"position": "B2",
+		"positionDes": "B,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 308.0,
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A3",
+		"positionDes": "A,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 473.0,
+		"mergedRange": ""
+	},
+	{
+		"position": "B3",
+		"positionDes": "B,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 443.0,
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A4",
+		"positionDes": "A,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 563.0,
+		"mergedRange": ""
+	},
+	{
+		"position": "B4",
+		"positionDes": "B,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 432.0,
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A5",
+		"positionDes": "A,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 747.0,
+		"mergedRange": ""
+	},
+	{
+		"position": "B5",
+		"positionDes": "B,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 572.0,
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A6",
+		"positionDes": "A,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 856.0,
+		"mergedRange": ""
+	},
+	{
+		"position": "B6",
+		"positionDes": "B,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 603.0,
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A7",
+		"positionDes": "A,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 943.0,
+		"mergedRange": ""
+	},
+	{
+		"position": "B7",
+		"positionDes": "B,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 624.0,
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A8",
+		"positionDes": "A,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 1308.0,
+		"mergedRange": ""
+	},
+	{
+		"position": "B8",
+		"positionDes": "B,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 989.0,
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A9",
+		"positionDes": "A,9",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 1871.0,
+		"mergedRange": ""
+	},
+	{
+		"position": "B9",
+		"positionDes": "B,9",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 1164.0,
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A10",
+		"positionDes": "A,10",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 2265.0,
+		"mergedRange": ""
+	},
+	{
+		"position": "B10",
+		"positionDes": "B,10",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 1208.0,
+		"mergedRange": ""
+	}],
+	[{
+		"position": "A11",
+		"positionDes": "A,11",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 3038.0,
+		"mergedRange": ""
+	},
+	{
+		"position": "B11",
+		"positionDes": "B,11",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": 1764.0,
+		"mergedRange": ""
+	}]]
+}
