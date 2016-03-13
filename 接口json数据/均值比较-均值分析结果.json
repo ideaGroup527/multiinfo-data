@@ -1,0 +1,85 @@
+{
+	"ret_code": "",
+	"ret_msg": "",
+	"ret_err": "",
+	"resDataMap": {
+		"北京": {
+			"湿度": {
+				"resultData": {
+					"max": 20.4,
+					"min": 20.4,
+					"arithmeticMean": 20.4,
+					"variance": 0.0,
+					"standardDeviation": null,
+					"total": 20.4,
+					"median": 20.4,
+					"skewness": null,
+					"kurtosis": "NaN",
+					"count": null
+				},
+				"varietyName": null,
+				"typeDes": null,
+				"type": null,
+				"typeFormat": null
+			},
+			"降水": {
+				"resultData": {
+					"max": 100.0,
+					"min": 100.0,
+					"arithmeticMean": 100.00000000000004,
+					"variance": 0.0,
+					"standardDeviation": null,
+					"total": 100.0,
+					"median": 100.0,
+					"skewness": null,
+					"kurtosis": "NaN",
+					"count": null
+				},
+				"varietyName": null,
+				"typeDes": null,
+				"type": null,
+				"typeFormat": null
+			}
+		},
+		"上海": {
+			"湿度": {
+				"resultData": {
+					"max": 33.3,
+					"min": 6.4,
+					"arithmeticMean": 15.448634686275968,
+					"variance": 183.06999999999994,
+					"standardDeviation": null,
+					"total": 56.99999999999999,
+					"median": 17.3,
+					"skewness": null,
+					"kurtosis": "NaN",
+					"count": null
+				},
+				"varietyName": null,
+				"typeDes": null,
+				"type": null,
+				"typeFormat": null
+			},
+			"降水": {
+				"resultData": {
+					"max": 200.0,
+					"min": 150.0,
+					"arithmeticMean": 165.0963624447312,
+					"variance": 833.3333333333333,
+					"standardDeviation": null,
+					"total": 500.0,
+					"median": 150.0,
+					"skewness": null,
+					"kurtosis": "NaN",
+					"count": null
+				},
+				"varietyName": null,
+				"typeDes": null,
+				"type": null,
+				"typeFormat": null
+			}
+		}
+	},
+	"resultType": null,
+	"reportTitle": null
+}
