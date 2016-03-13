@@ -1,41 +1,83 @@
 {
-	"ret_code": "",
-	"ret_msg": "",
-	"ret_err": "",
-	"resDataMap": {
-		"湿度": {
-			"resultData": {
-				"max": 33.3,
-				"min": 6.4,
-				"arithmeticMean": 19.349999999999998,
-				"variance": 122.53666666666663,
-				"standardDeviation": 11.069628117812568,
-				"total": 77.4,
-				"skewness": 0.26318984170841914,
-				"kurtosis": 1.1547022499972481
-			},
-			"varietyName": null,
-			"typeDes": null,
-			"type": null,
-			"typeFormat": null
-		},
-		"降水": {
-			"resultData": {
-				"max": 200.0,
-				"min": 100.0,
-				"arithmeticMean": 150.0,
-				"variance": 1666.6666666666667,
-				"standardDeviation": 40.824829046386306,
-				"total": 600.0,
-				"skewness": 0.0,
-				"kurtosis": 1.4999999999999947
-			},
-			"varietyName": null,
-			"typeDes": null,
-			"type": null,
-			"typeFormat": null
-		}
-	},
-	"resultType": null,
-	"reportTitle": null
+  "ret_code": "",
+  "ret_msg": "",
+  "ret_err": "",
+  "resDataMap": {
+    "湿度": {
+      "resultData": {
+        "max": 33.3,
+        "min": 6.4,
+        "arithmeticMean": 19.349999999999998,
+        "variance": 122.53666666666663,
+        "standardDeviation": 11.069628117812568,
+        "total": 77.4,
+        "skewness": 0.26318984170841914,
+        "kurtosis": 1.1547022499972481,
+        "count": 4,
+        "percentiles": [
+          {
+            "param": 25,
+            "data": 9.125
+          },
+          {
+            "param": 50,
+            "data": 18.85
+          },
+          {
+            "param": 70,
+            "data": 26.849999999999998
+          }
+        ]
+      },
+      "dataArr": [
+        20.4,
+        17.3,
+        33.3,
+        6.4
+      ],
+      "varietyName": null,
+      "typeDes": null,
+      "type": null,
+      "typeFormat": null
+    },
+    "降水": {
+      "resultData": {
+        "max": 200,
+        "min": 100,
+        "arithmeticMean": 150,
+        "variance": 1666.6666666666667,
+        "standardDeviation": 40.824829046386306,
+        "total": 600,
+        "skewness": 0,
+        "kurtosis": 1.4999999999999947,
+        "count": 4,
+        "percentiles": [
+          {
+            "param": 25,
+            "data": 112.5
+          },
+          {
+            "param": 50,
+            "data": 150
+          },
+          {
+            "param": 70,
+            "data": 175
+          }
+        ]
+      },
+      "dataArr": [
+        100,
+        200,
+        150,
+        150
+      ],
+      "varietyName": null,
+      "typeDes": null,
+      "type": null,
+      "typeFormat": null
+    }
+  },
+  "resultType": null,
+  "reportTitle": null
 }
