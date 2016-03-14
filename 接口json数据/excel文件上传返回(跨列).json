@@ -14,7 +14,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "月份",
-			"mergedRange": null
+			"mergedRange": "A1:A2"
 		},
 		{
 			"position": "B1",
@@ -50,7 +50,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "合计",
-			"mergedRange": null
+			"mergedRange": "E1:E2"
 		}],
 		[{
 			"position": "A2",
@@ -58,44 +58,44 @@
 			"typeDes": "字符串型",
 			"type": 0,
 			"typeFormat": null,
-			"data": "2016.01.01",
-			"mergedRange": null
+			"data": "月份",
+			"mergedRange": "A1:A2"
 		},
 		{
 			"position": "B2",
 			"positionDes": "B,2",
-			"typeDes": "标准型数字",
-			"type": 1,
+			"typeDes": "字符串型",
+			"type": 0,
 			"typeFormat": null,
-			"data": "100.0",
+			"data": "100北京",
 			"mergedRange": null
 		},
 		{
 			"position": "C2",
 			"positionDes": "C,2",
-			"typeDes": "标准型数字",
-			"type": 1,
+			"typeDes": "字符串型",
+			"type": 0,
 			"typeFormat": null,
-			"data": "100.0",
+			"data": "200上海",
 			"mergedRange": null
 		},
 		{
 			"position": "D2",
 			"positionDes": "D,2",
-			"typeDes": "标准型数字",
-			"type": 1,
+			"typeDes": "字符串型",
+			"type": 0,
 			"typeFormat": null,
-			"data": "100.0",
+			"data": "300广州",
 			"mergedRange": null
 		},
 		{
 			"position": "E2",
 			"positionDes": "E,2",
-			"typeDes": "标准型数字",
-			"type": 1,
+			"typeDes": "字符串型",
+			"type": 0,
 			"typeFormat": null,
-			"data": "300.0",
-			"mergedRange": null
+			"data": "合计",
+			"mergedRange": "E1:E2"
 		}],
 		[{
 			"position": "A3",
@@ -103,7 +103,7 @@
 			"typeDes": "字符串型",
 			"type": 0,
 			"typeFormat": null,
-			"data": "2016.01.02",
+			"data": "2016.01.01",
 			"mergedRange": null
 		},
 		{
@@ -112,7 +112,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "101.0",
+			"data": "100.0",
 			"mergedRange": null
 		},
 		{
@@ -121,7 +121,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "102.0",
+			"data": "100.0",
 			"mergedRange": null
 		},
 		{
@@ -130,7 +130,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "101.0",
+			"data": "100.0",
 			"mergedRange": null
 		},
 		{
@@ -139,7 +139,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "304.0",
+			"data": "300.0",
 			"mergedRange": null
 		}],
 		[{
@@ -148,7 +148,7 @@
 			"typeDes": "字符串型",
 			"type": 0,
 			"typeFormat": null,
-			"data": "2016.01.03",
+			"data": "2016.01.02",
 			"mergedRange": null
 		},
 		{
@@ -166,7 +166,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "100.0",
+			"data": "102.0",
 			"mergedRange": null
 		},
 		{
@@ -175,7 +175,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "103.0",
+			"data": "101.0",
 			"mergedRange": null
 		},
 		{
@@ -193,7 +193,7 @@
 			"typeDes": "字符串型",
 			"type": 0,
 			"typeFormat": null,
-			"data": "2016.01.04",
+			"data": "2016.01.03",
 			"mergedRange": null
 		},
 		{
@@ -202,7 +202,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "50.0",
+			"data": "101.0",
 			"mergedRange": null
 		},
 		{
@@ -211,7 +211,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "70.0",
+			"data": "100.0",
 			"mergedRange": null
 		},
 		{
@@ -220,7 +220,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "119.0",
+			"data": "103.0",
 			"mergedRange": null
 		},
 		{
@@ -229,7 +229,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "239.0",
+			"data": "304.0",
 			"mergedRange": null
 		}],
 		[{
@@ -238,7 +238,7 @@
 			"typeDes": "字符串型",
 			"type": 0,
 			"typeFormat": null,
-			"data": "合计",
+			"data": "2016.01.04",
 			"mergedRange": null
 		},
 		{
@@ -247,7 +247,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "352.0",
+			"data": "50.0",
 			"mergedRange": null
 		},
 		{
@@ -256,7 +256,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "372.0",
+			"data": "70.0",
 			"mergedRange": null
 		},
 		{
@@ -265,7 +265,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "423.0",
+			"data": "119.0",
 			"mergedRange": null
 		},
 		{
@@ -274,7 +274,7 @@
 			"typeDes": "标准型数字",
 			"type": 1,
 			"typeFormat": null,
-			"data": "1147.0",
+			"data": "239.0",
 			"mergedRange": null
 		}],
 		[{
@@ -283,43 +283,43 @@
 			"typeDes": "字符串型",
 			"type": 0,
 			"typeFormat": null,
-			"data": "",
+			"data": "合计",
 			"mergedRange": null
 		},
 		{
 			"position": "B7",
 			"positionDes": "B,7",
-			"typeDes": "字符串型",
-			"type": 0,
+			"typeDes": "标准型数字",
+			"type": 1,
 			"typeFormat": null,
-			"data": "",
+			"data": "352.0",
 			"mergedRange": null
 		},
 		{
 			"position": "C7",
 			"positionDes": "C,7",
-			"typeDes": "字符串型",
-			"type": 0,
+			"typeDes": "标准型数字",
+			"type": 1,
 			"typeFormat": null,
-			"data": "",
+			"data": "372.0",
 			"mergedRange": null
 		},
 		{
 			"position": "D7",
 			"positionDes": "D,7",
-			"typeDes": "字符串型",
-			"type": 0,
+			"typeDes": "标准型数字",
+			"type": 1,
 			"typeFormat": null,
-			"data": "",
+			"data": "423.0",
 			"mergedRange": null
 		},
 		{
 			"position": "E7",
 			"positionDes": "E,7",
-			"typeDes": "字符串型",
-			"type": 0,
+			"typeDes": "标准型数字",
+			"type": 1,
 			"typeFormat": null,
-			"data": "",
+			"data": "1147.0",
 			"mergedRange": null
 		}],
 		[{
@@ -361,6 +361,51 @@
 		{
 			"position": "E8",
 			"positionDes": "E,8",
+			"typeDes": "字符串型",
+			"type": 0,
+			"typeFormat": null,
+			"data": "",
+			"mergedRange": null
+		}],
+		[{
+			"position": "A9",
+			"positionDes": "A,9",
+			"typeDes": "字符串型",
+			"type": 0,
+			"typeFormat": null,
+			"data": "",
+			"mergedRange": null
+		},
+		{
+			"position": "B9",
+			"positionDes": "B,9",
+			"typeDes": "字符串型",
+			"type": 0,
+			"typeFormat": null,
+			"data": "",
+			"mergedRange": null
+		},
+		{
+			"position": "C9",
+			"positionDes": "C,9",
+			"typeDes": "字符串型",
+			"type": 0,
+			"typeFormat": null,
+			"data": "",
+			"mergedRange": null
+		},
+		{
+			"position": "D9",
+			"positionDes": "D,9",
+			"typeDes": "字符串型",
+			"type": 0,
+			"typeFormat": null,
+			"data": "",
+			"mergedRange": null
+		},
+		{
+			"position": "E9",
+			"positionDes": "E,9",
 			"typeDes": "字符串型",
 			"type": 0,
 			"typeFormat": null,
@@ -412,7 +457,7 @@
 	"currenSheetNo": 0,
 	"version": "2007",
 	"sheetNameList": ["Sheet1"],
-	"physicalRowNum": 9,
+	"physicalRowNum": 10,
 	"physicalCellNum": 5,
-	"lastCellIndex": "E8"
+	"lastCellIndex": "E9"
 }
