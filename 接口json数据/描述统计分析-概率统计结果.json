@@ -5,15 +5,26 @@
 	"resDataMap": {
 		"湿度": {
 			"resultData": {
-				"uniqueData": ["6.4",
-				"17.3",
-				"20.4",
-				"33.3"],
+				"max": 33.3,
+				"min": 6.4,
+				"arithmeticMean": 19.349999999999998,
+				"variance": null,
+				"standardDeviation": 11.069628117812568,
+				"total": null,
+				"median": null,
+				"skewness": null,
+				"kurtosis": null,
+				"percentiles": null,
+				"count": 4,
+				"uniqueData": [6.4,
+				17.3,
+				20.4,
+				33.3],
 				"frequencyMap": {
-					"33.3": 1.0,
-					"20.4": 1.0,
-					"6.4": 1.0,
-					"17.3": 1.0
+					"33.3": 1,
+					"20.4": 1,
+					"6.4": 1,
+					"17.3": 1
 				},
 				"percentage": {
 					"33.3": 0.25,
@@ -23,12 +34,13 @@
 				},
 				"validatePercentage": null,
 				"accumulationPercentage": {
-					"33.3": 0.75,
-					"20.4": 0.5,
-					"6.4": 1.0,
-					"17.3": 0.25
+					"33.3": 1.0,
+					"20.4": 0.75,
+					"6.4": 0.25,
+					"17.3": 0.5
 				}
 			},
+			"dataArr": null,
 			"varietyName": null,
 			"typeDes": null,
 			"type": null,
@@ -36,26 +48,38 @@
 		},
 		"降水": {
 			"resultData": {
-				"uniqueData": ["100",
-				"150",
-				"200"],
+				"max": 200.0,
+				"min": 100.0,
+				"arithmeticMean": 150.0,
+				"variance": null,
+				"standardDeviation": 40.824829046386306,
+				"total": null,
+				"median": null,
+				"skewness": null,
+				"kurtosis": null,
+				"percentiles": null,
+				"count": 4,
+				"uniqueData": [100.0,
+				150.0,
+				200.0],
 				"frequencyMap": {
-					"150": 2.0,
-					"200": 1.0,
-					"100": 1.0
+					"150.0": 2,
+					"100.0": 1,
+					"200.0": 1
 				},
 				"percentage": {
-					"150": 0.5,
-					"200": 0.25,
-					"100": 0.25
+					"150.0": 0.5,
+					"100.0": 0.25,
+					"200.0": 0.25
 				},
 				"validatePercentage": null,
 				"accumulationPercentage": {
-					"150": 0.75,
-					"200": 1.0,
-					"100": 0.25
+					"150.0": 0.75,
+					"100.0": 0.25,
+					"200.0": 1.0
 				}
 			},
+			"dataArr": null,
 			"varietyName": null,
 			"typeDes": null,
 			"type": null,
