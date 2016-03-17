@@ -1,0 +1,338 @@
+{
+	"factorVariable": {
+		"position": "A",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "组别",
+		"range": "A2:A16"
+	},
+	"dependentVariable": [{
+		"position": "B",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"varietyName": "降水",
+		"range": "B2:B16"
+	}],
+	"dataGrid": [[{
+		"position": "A1",
+		"positionDes": "A,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "组别",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B1",
+		"positionDes": "B,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "降水",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A2",
+		"positionDes": "A,2",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "A",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B2",
+		"positionDes": "B,2",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 22.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A3",
+		"positionDes": "A,3",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "B",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B3",
+		"positionDes": "B,3",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 18.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A4",
+		"positionDes": "A,4",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "C",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B4",
+		"positionDes": "B,4",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 19.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A5",
+		"positionDes": "A,5",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "A",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B5",
+		"positionDes": "B,5",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 21.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A6",
+		"positionDes": "A,6",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "B",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B6",
+		"positionDes": "B,6",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 20.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A7",
+		"positionDes": "A,7",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "C",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B7",
+		"positionDes": "B,7",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 18.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A8",
+		"positionDes": "A,8",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "A",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B8",
+		"positionDes": "B,8",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 18.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A9",
+		"positionDes": "A,9",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "B",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B9",
+		"positionDes": "B,9",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 20.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A10",
+		"positionDes": "A,10",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "C",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B10",
+		"positionDes": "B,10",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 13.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A11",
+		"positionDes": "A,11",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "A",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B11",
+		"positionDes": "B,11",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 21.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A12",
+		"positionDes": "A,12",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "B",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B12",
+		"positionDes": "B,12",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 15.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A13",
+		"positionDes": "A,13",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "C",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B13",
+		"positionDes": "B,13",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 20.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A14",
+		"positionDes": "A,14",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "A",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B14",
+		"positionDes": "B,14",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 20.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A15",
+		"positionDes": "A,15",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "B",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B15",
+		"positionDes": "B,15",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 20.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}],
+	[{
+		"position": "A16",
+		"positionDes": "A,16",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "C",
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	},
+	{
+		"position": "B16",
+		"positionDes": "B,16",
+		"typeDes": "数字型",
+		"type": 1,
+		"typeFormat": null,
+		"data": 20.0,
+		"mergedRange": "",
+		"mergedRangeDes": ""
+	}]]
+}
