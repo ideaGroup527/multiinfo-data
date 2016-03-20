@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+
+
+  <servlet>
+    <servlet-name>DisplayChart</servlet-name>
+    <servlet-class>org.jfree.chart.servlet.DisplayChart</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Pie</servlet-name>
+    <servlet-class>org.plot.sevlet.PieChart</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>XYBarChart</servlet-name>
+    <servlet-class>org.plot.sevlet.XYBarChart</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>XYLineChart</servlet-name>
+    <servlet-class>org.plot.sevlet.XYLineChart</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>XYDisperseChart</servlet-name>
+    <servlet-class>org.plot.sevlet.XYDisperseChart</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>DingChart</servlet-name>
+    <servlet-class>org.plot.sevlet.DingChart</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ReadExcel</servlet-name>
+    <servlet-class>org.plot.sevlet.getdata.ReadExcel</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>chooseData</servlet-name>
+    <servlet-class>org.plot.sevlet.getdata.ChooseData</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>MidChooseData</servlet-name>
+    <servlet-class>org.plot.sevlet.getdata.MidChooseData</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>GetTableName</servlet-name>
+    <servlet-class>org.plot.sevlet.getdata.GetTableName</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>GetTableMessage</servlet-name>
+    <servlet-class>org.plot.sevlet.getdata.GetTableMessage</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>TableData</servlet-name>
+    <servlet-class>org.plot.sevlet.getdata.TableData</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>GetExcelWorkBook</servlet-name>
+    <servlet-class>org.plot.sevlet.getdata.GetExcelWorkBook</servlet-class>
+  </servlet>
+
+
+
+
+
+  <filter>
+    <filter-name>EncodingFilter</filter-name>
+    <filter-class>org.plot.filter.EncodingFilter</filter-class>
+    <init-param>
+    	<param-name>charSet</param-name>
+    	<param-value>GB2312</param-value>
+    </init-param>
+  </filter>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>DisplayChart</servlet-name>
+    <url-pattern>/servlet/DisplayChart</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Pie</servlet-name>
+    <url-pattern>/Pie</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>XYBarChart</servlet-name>
+    <url-pattern>/XYBar</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>XYLineChart</servlet-name>
+    <url-pattern>/XYLine</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>XYDisperseChart</servlet-name>
+    <url-pattern>/XYDisperse</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DingChart</servlet-name>
+    <url-pattern>/Ding</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ReadExcel</servlet-name>
+    <url-pattern>/readExcel</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>chooseData</servlet-name>
+    <url-pattern>/chooseData</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>MidChooseData</servlet-name>
+    <url-pattern>/midChooseData</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetTableName</servlet-name>
+    <url-pattern>/getTableName</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetTableMessage</servlet-name>
+    <url-pattern>/getTableMessage</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TableData</servlet-name>
+    <url-pattern>/tableData</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetExcelWorkBook</servlet-name>
+    <url-pattern>/GetExcelWorkBook</url-pattern>
+  </servlet-mapping>
+  <filter-mapping>
+    <filter-name>EncodingFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+
+
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>
