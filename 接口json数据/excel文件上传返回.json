@@ -14,7 +14,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "年份",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B1",
@@ -23,7 +24,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "一产增加值",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C1",
@@ -32,7 +34,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "二产增加值",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D1",
@@ -41,7 +44,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "三产增加值",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E1",
@@ -50,7 +54,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "货物周转量",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F1",
@@ -59,7 +64,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "旅客周转量",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G1",
@@ -68,7 +74,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "建筑业增加值",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H1",
@@ -77,7 +84,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "固定资产投资总额",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I1",
@@ -86,7 +94,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "居民消费价格指数",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J1",
@@ -95,7 +104,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "消费品零售总额",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K1",
@@ -104,7 +114,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "农民年人均收入",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L1",
@@ -113,7 +124,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "人口自然增长率",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M1",
@@ -122,7 +134,8 @@
 			"type": 0,
 			"typeFormat": null,
 			"data": "人均GDP",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A2",
@@ -131,7 +144,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2006.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B2",
@@ -140,7 +154,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1331.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C2",
@@ -149,7 +164,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "3123.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D2",
@@ -158,7 +174,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "3038.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E2",
@@ -167,7 +184,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1776.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F2",
@@ -176,7 +194,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "107415.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G2",
@@ -185,7 +204,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "455.7",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H2",
@@ -194,7 +214,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2629.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I2",
@@ -203,7 +224,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "101.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J2",
@@ -212,7 +234,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2834.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K2",
@@ -221,7 +244,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "3389.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L2",
@@ -230,7 +254,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "5.19",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M2",
@@ -239,7 +264,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "11830.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A3",
@@ -248,7 +274,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2005.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B3",
@@ -257,7 +284,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1274.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C3",
@@ -266,7 +294,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2596.7",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D3",
@@ -275,7 +304,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2640.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E3",
@@ -284,7 +314,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1628.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F3",
@@ -293,7 +324,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "101150.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G3",
@@ -302,7 +334,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "406.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H3",
@@ -311,7 +344,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2629.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I3",
@@ -320,7 +354,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "102.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J3",
@@ -329,7 +364,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2459.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K3",
@@ -338,7 +374,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "3117.7",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L3",
@@ -347,7 +384,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "5.15",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M3",
@@ -356,7 +394,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "10426.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A4",
@@ -365,7 +404,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2004.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B4",
@@ -374,7 +414,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1155.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C4",
@@ -383,7 +424,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2214.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D4",
@@ -392,7 +434,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2242.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E4",
@@ -401,7 +444,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1552.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F4",
@@ -410,7 +454,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "94890.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G4",
@@ -419,7 +464,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "433.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H4",
@@ -428,7 +474,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2072.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I4",
@@ -437,7 +484,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "105.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J4",
@@ -446,7 +494,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2149.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K4",
@@ -455,7 +504,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2837.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L4",
@@ -464,7 +514,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "5.09",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M4",
@@ -473,7 +524,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "9165.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A5",
@@ -482,7 +534,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2003.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B5",
@@ -491,7 +544,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "886.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C5",
@@ -500,7 +554,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1794.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D5",
@@ -509,7 +564,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1958.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E5",
@@ -518,7 +574,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1350.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F5",
@@ -527,7 +584,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "81790.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G5",
@@ -536,7 +594,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "341.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H5",
@@ -545,7 +604,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1590.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I5",
@@ -554,7 +614,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "102.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J5",
@@ -563,7 +624,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1816.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K5",
@@ -572,7 +634,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2532.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L5",
@@ -581,7 +644,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "4.95",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M5",
@@ -590,7 +654,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "7554.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A6",
@@ -599,7 +664,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2002.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B6",
@@ -608,7 +674,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "847.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C6",
@@ -617,7 +684,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1737.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D6",
@@ -626,7 +694,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1756.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E6",
@@ -635,7 +704,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1213.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F6",
@@ -644,7 +714,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "81130.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G6",
@@ -653,7 +724,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "296.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H6",
@@ -662,7 +734,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1348.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I6",
@@ -671,7 +744,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "99.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J6",
@@ -680,7 +754,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1678.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K6",
@@ -689,7 +764,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2397.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L6",
@@ -698,7 +774,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "4.86",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M6",
@@ -707,7 +784,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "6565.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A7",
@@ -716,7 +794,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2001.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B7",
@@ -725,7 +804,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "825.7",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C7",
@@ -734,7 +814,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1573.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D7",
@@ -743,7 +824,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1584.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E7",
@@ -752,7 +834,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1111.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F7",
@@ -761,7 +844,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "71070.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G7",
@@ -770,7 +854,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "263.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H7",
@@ -779,7 +864,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1174.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I7",
@@ -788,7 +874,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "99.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J7",
@@ -797,7 +884,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1511.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K7",
@@ -806,7 +894,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2299.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L7",
@@ -815,7 +904,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "5.08",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M7",
@@ -824,7 +914,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "6054.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A8",
@@ -833,7 +924,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2000.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B8",
@@ -842,7 +934,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "784.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C8",
@@ -851,7 +944,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1461.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D8",
@@ -860,7 +954,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1445.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E8",
@@ -869,7 +964,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1066.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F8",
@@ -878,7 +974,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "71460.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G8",
@@ -887,7 +984,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "231.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H8",
@@ -896,7 +994,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1012.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I8",
@@ -905,7 +1004,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "101.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J8",
@@ -914,7 +1014,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1364.7",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K8",
@@ -923,7 +1024,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2197.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L8",
@@ -932,7 +1034,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "4.66",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M8",
@@ -941,7 +1044,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "5639.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A9",
@@ -950,7 +1054,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1999.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B9",
@@ -959,7 +1064,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "778.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C9",
@@ -968,7 +1074,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1297.7",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D9",
@@ -977,7 +1084,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1250.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E9",
@@ -986,7 +1094,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "981.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F9",
@@ -995,7 +1104,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "66290.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G9",
@@ -1004,7 +1114,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "201.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H9",
@@ -1013,7 +1124,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "883.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I9",
@@ -1022,7 +1134,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "100.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J9",
@@ -1031,7 +1144,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1229.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K9",
@@ -1040,7 +1154,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2127.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L9",
@@ -1049,7 +1164,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "4.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M9",
@@ -1058,7 +1174,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "5105.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A10",
@@ -1067,7 +1184,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1998.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B10",
@@ -1076,7 +1194,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "828.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C10",
@@ -1085,7 +1204,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1294.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D10",
@@ -1094,7 +1214,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1088.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E10",
@@ -1103,7 +1224,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "969.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F10",
@@ -1112,7 +1234,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "59915.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G10",
@@ -1121,7 +1244,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "176.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H10",
@@ -1130,7 +1254,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "796.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I10",
@@ -1139,7 +1264,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "100.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J10",
@@ -1148,7 +1274,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1125.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K10",
@@ -1157,7 +1284,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2064.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L10",
@@ -1166,7 +1294,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "5.21",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M10",
@@ -1175,7 +1304,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "4953.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A11",
@@ -1184,7 +1314,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1997.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B11",
@@ -1193,7 +1324,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "855.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C11",
@@ -1202,7 +1334,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1167.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D11",
@@ -1211,7 +1344,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "970.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E11",
@@ -1220,7 +1354,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "986.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F11",
@@ -1229,7 +1364,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "59216.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G11",
@@ -1238,7 +1374,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "147.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H11",
@@ -1247,7 +1384,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "667.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I11",
@@ -1256,7 +1394,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "102.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J11",
@@ -1265,7 +1404,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1041.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K11",
@@ -1274,7 +1414,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2037.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L11",
@@ -1283,7 +1424,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "5.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M11",
@@ -1292,7 +1434,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "4643.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A12",
@@ -1301,7 +1444,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1996.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B12",
@@ -1310,7 +1454,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "794.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C12",
@@ -1319,7 +1464,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1008.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D12",
@@ -1328,7 +1474,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "844.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E12",
@@ -1337,7 +1484,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1012.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F12",
@@ -1346,7 +1494,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "53829.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G12",
@@ -1355,7 +1504,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "137.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H12",
@@ -1364,7 +1514,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "684.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I12",
@@ -1373,7 +1524,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "107.7",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J12",
@@ -1382,7 +1534,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "947.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K12",
@@ -1391,7 +1544,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1792.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L12",
@@ -1400,7 +1554,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "5.61",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M12",
@@ -1409,7 +1564,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "4130.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A13",
@@ -1418,7 +1574,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1995.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B13",
@@ -1427,7 +1584,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "685.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C13",
@@ -1436,7 +1594,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "815.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D13",
@@ -1445,7 +1604,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "694.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E13",
@@ -1454,7 +1614,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1011.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F13",
@@ -1463,7 +1624,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "55513.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G13",
@@ -1472,7 +1634,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "116.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H13",
@@ -1481,7 +1644,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "523.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I13",
@@ -1490,7 +1654,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "119.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J13",
@@ -1499,7 +1664,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "837.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K13",
@@ -1508,7 +1674,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1425.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L13",
@@ -1517,7 +1684,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "5.87",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M13",
@@ -1526,7 +1694,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "3470.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A14",
@@ -1535,7 +1704,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1994.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B14",
@@ -1544,7 +1714,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "532.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C14",
@@ -1553,7 +1724,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "618.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D14",
@@ -1562,7 +1734,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "543.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E14",
@@ -1571,7 +1744,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "986.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F14",
@@ -1580,7 +1754,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "53902.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G14",
@@ -1589,7 +1764,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "92.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H14",
@@ -1598,7 +1774,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "422.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I14",
@@ -1607,7 +1784,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "125.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J14",
@@ -1616,7 +1794,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "659.7",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K14",
@@ -1625,7 +1804,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1155.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L14",
@@ -1634,7 +1814,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "6.85",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M14",
@@ -1643,7 +1824,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2701.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A15",
@@ -1652,7 +1834,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1993.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B15",
@@ -1661,7 +1844,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "383.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C15",
@@ -1670,7 +1854,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "489.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D15",
@@ -1679,7 +1864,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "405.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E15",
@@ -1688,7 +1874,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "938.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F15",
@@ -1697,7 +1884,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "49026.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G15",
@@ -1706,7 +1894,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "71.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H15",
@@ -1715,7 +1904,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "324.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I15",
@@ -1724,7 +1914,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "116.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J15",
@@ -1733,7 +1924,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "476.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K15",
@@ -1742,7 +1934,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "851.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L15",
@@ -1751,7 +1944,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "6.95",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M15",
@@ -1760,7 +1954,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "2053.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A16",
@@ -1769,7 +1964,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1992.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B16",
@@ -1778,7 +1974,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "323.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C16",
@@ -1787,7 +1984,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "347.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D16",
@@ -1796,7 +1994,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "325.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E16",
@@ -1805,7 +2004,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "901.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F16",
@@ -1814,7 +2014,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "43519.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G16",
@@ -1823,7 +2024,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "52.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H16",
@@ -1832,7 +2034,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "234.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I16",
@@ -1841,7 +2044,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "110.7",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J16",
@@ -1850,7 +2054,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "393.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K16",
@@ -1859,7 +2064,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "739.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L16",
@@ -1868,7 +2074,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "9.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M16",
@@ -1877,7 +2084,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1487.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A17",
@@ -1886,7 +2094,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1991.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B17",
@@ -1895,7 +2104,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "301.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C17",
@@ -1904,7 +2114,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "282.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D17",
@@ -1913,7 +2124,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "250.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E17",
@@ -1922,7 +2134,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "830.6",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F17",
@@ -1931,7 +2144,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "37820.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G17",
@@ -1940,7 +2154,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "39.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H17",
@@ -1949,7 +2164,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "156.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I17",
@@ -1958,7 +2174,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "104.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J17",
@@ -1967,7 +2184,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "335.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K17",
@@ -1976,7 +2194,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "688.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L17",
@@ -1985,7 +2204,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "13.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M17",
@@ -1994,7 +2214,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1280.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A18",
@@ -2003,7 +2224,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1990.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B18",
@@ -2012,7 +2234,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "279.1",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C18",
@@ -2021,7 +2244,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "250.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D18",
@@ -2030,7 +2254,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "215.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E18",
@@ -2039,7 +2264,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "774.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F18",
@@ -2048,7 +2274,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "33986.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G18",
@@ -2057,7 +2284,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "29.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H18",
@@ -2066,7 +2294,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "121.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I18",
@@ -2075,7 +2304,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "100.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J18",
@@ -2084,7 +2314,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "294.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K18",
@@ -2093,7 +2324,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "664.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L18",
@@ -2102,7 +2334,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "16.7",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M18",
@@ -2111,7 +2344,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1288.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}],
 		[{
 			"position": "A19",
@@ -2120,7 +2354,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1989.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "B19",
@@ -2129,7 +2364,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "234.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "C19",
@@ -2138,7 +2374,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "238.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "D19",
@@ -2147,7 +2384,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "168.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "E19",
@@ -2156,7 +2394,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "730.4",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "F19",
@@ -2165,7 +2404,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "35034.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "G19",
@@ -2174,7 +2414,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "25.9",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "H19",
@@ -2183,7 +2424,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "114.5",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "I19",
@@ -2192,7 +2434,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "118.2",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "J19",
@@ -2201,7 +2444,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "293.8",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "K19",
@@ -2210,7 +2454,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "558.3",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "L19",
@@ -2219,7 +2464,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "15.84",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		},
 		{
 			"position": "M19",
@@ -2228,7 +2474,8 @@
 			"type": 1,
 			"typeFormat": null,
 			"data": "1074.0",
-			"mergedRange": null
+			"mergedRange": null,
+			"mergedRangeDes": null
 		}]],
 		"variety": [{
 			"position": "A",
@@ -2236,6 +2483,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V1",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2244,6 +2492,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V2",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2252,6 +2501,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V3",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2260,6 +2510,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V4",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2268,6 +2519,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V5",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2276,6 +2528,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V6",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2284,6 +2537,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V7",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2292,6 +2546,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V8",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2300,6 +2555,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V9",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2308,6 +2564,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V10",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2316,6 +2573,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V11",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2324,6 +2582,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V12",
+			"varietyDes": null,
 			"range": null
 		},
 		{
@@ -2332,6 +2591,7 @@
 			"type": 0,
 			"typeFormat": null,
 			"varietyName": "V13",
+			"varietyDes": null,
 			"range": null
 		}],
 		"isFirstRowVar": false
