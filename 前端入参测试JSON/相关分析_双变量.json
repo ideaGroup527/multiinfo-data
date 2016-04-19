@@ -1,244 +1,93 @@
 {
-  "variableList": [
-    {
-      "position": "A",
-      "typeDes": "字符串型",
-      "type": 0,
-      "typeFormat": null,
-      "varietyName": "投入",
-      "varietyDes": null,
-      "range": "A2:A10"
-    },
-    {
-      "position": "B",
-      "typeDes": "字符串型",
-      "type": 0,
-      "typeFormat": null,
-      "varietyName": "产出",
-      "varietyDes": null,
-      "range": "B2:B10"
-    }
-  ],
-  "dataGrid": [
-    [
+  "ret_code": "",
+  "ret_msg": "",
+  "ret_err": "",
+  "resDataMap": {
+    "产出": [
       {
-        "position": "A1",
-        "positionDes": "A,1",
-        "typeDes": "字符串型",
-        "type": 0,
-        "typeFormat": null,
-        "data": "投入",
-        "mergedRange": null,
-        "mergedRangeDes": null
+        "产出": {
+          "pearsonR": 1,
+          "pearsonT": "Infinity",
+          "spearmanR": 1,
+          "spearmanT": "Infinity",
+          "n": 9,
+          "croProSumSq": 1155.5555555555557,
+          "covariance": 144.44444444444446,
+          "sigTwo": null,
+          "sigOne": null
+        }
       },
       {
-        "position": "B1",
-        "positionDes": "B,1",
-        "typeDes": "字符串型",
-        "type": 0,
-        "typeFormat": null,
-        "data": "产出",
-        "mergedRange": null,
-        "mergedRangeDes": null
+        "投入": {
+          "pearsonR": 0.7596566091147449,
+          "pearsonT": 3.0905536427715594,
+          "spearmanR": 0.7083333333333333,
+          "spearmanT": 2.6549539521063026,
+          "n": 9,
+          "croProSumSq": 677.7777777777778,
+          "covariance": 84.72222222222221,
+          "sigTwo": null,
+          "sigOne": null
+        }
       }
     ],
-    [
+    "投入": [
       {
-        "position": "A2",
-        "positionDes": "A,2",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "20.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
+        "产出": {
+          "pearsonR": 0.7596566091147449,
+          "pearsonT": 3.0905536427715594,
+          "spearmanR": 0.7083333333333333,
+          "spearmanT": 2.6549539521063026,
+          "n": 9,
+          "croProSumSq": 677.7777777777778,
+          "covariance": 84.72222222222221,
+          "sigTwo": null,
+          "sigOne": null
+        }
       },
       {
-        "position": "B2",
-        "positionDes": "B,2",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "30.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      }
-    ],
-    [
-      {
-        "position": "A3",
-        "positionDes": "A,3",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "40.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      },
-      {
-        "position": "B3",
-        "positionDes": "B,3",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "60.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      }
-    ],
-    [
-      {
-        "position": "A4",
-        "positionDes": "A,4",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "20.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      },
-      {
-        "position": "B4",
-        "positionDes": "B,4",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "40.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      }
-    ],
-    [
-      {
-        "position": "A5",
-        "positionDes": "A,5",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "30.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      },
-      {
-        "position": "B5",
-        "positionDes": "B,5",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "60.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      }
-    ],
-    [
-      {
-        "position": "A6",
-        "positionDes": "A,6",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "10.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      },
-      {
-        "position": "B6",
-        "positionDes": "B,6",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "30.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      }
-    ],
-    [
-      {
-        "position": "A7",
-        "positionDes": "A,7",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "10.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      },
-      {
-        "position": "B7",
-        "positionDes": "B,7",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "40.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      }
-    ],
-    [
-      {
-        "position": "A8",
-        "positionDes": "A,8",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "20.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      },
-      {
-        "position": "B8",
-        "positionDes": "B,8",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "40.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      }
-    ],
-    [
-      {
-        "position": "A9",
-        "positionDes": "A,9",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "20.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      },
-      {
-        "position": "B9",
-        "positionDes": "B,9",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "50.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      }
-    ],
-    [
-      {
-        "position": "A10",
-        "positionDes": "A,10",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "20.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
-      },
-      {
-        "position": "B10",
-        "positionDes": "B,10",
-        "typeDes": "标准型数字",
-        "type": 1,
-        "typeFormat": null,
-        "data": "30.0",
-        "mergedRange": null,
-        "mergedRangeDes": null
+        "投入": {
+          "pearsonR": 1,
+          "pearsonT": "Infinity",
+          "spearmanR": 1,
+          "spearmanT": "Infinity",
+          "n": 9,
+          "croProSumSq": 688.8888888888888,
+          "covariance": 86.1111111111111,
+          "sigTwo": null,
+          "sigOne": null
+        }
       }
     ]
-  ]
+  },
+  "basicDataMap": {
+    "产出": {
+      "max": null,
+      "min": null,
+      "arithmeticMean": 42.22222222222222,
+      "variance": null,
+      "standardDeviation": 12.01850425154663,
+      "total": null,
+      "median": null,
+      "skewness": null,
+      "kurtosis": null,
+      "percentiles": null,
+      "count": 9,
+      "errPercentiles": null
+    },
+    "投入": {
+      "max": null,
+      "min": null,
+      "arithmeticMean": 21.11111111111111,
+      "variance": null,
+      "standardDeviation": 9.27960727138337,
+      "total": null,
+      "median": null,
+      "skewness": null,
+      "kurtosis": null,
+      "percentiles": null,
+      "count": 9,
+      "errPercentiles": null
+    }
+  }
 }
