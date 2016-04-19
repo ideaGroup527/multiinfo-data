@@ -7,7 +7,7 @@
       "typeFormat": null,
       "varietyName": "投入",
       "varietyDes": null,
-      "range": "A2:A10"
+      "range": "A2:A11"
     },
     {
       "position": "B",
@@ -16,7 +16,7 @@
       "typeFormat": null,
       "varietyName": "产出",
       "varietyDes": null,
-      "range": "B2:B10"
+      "range": "B2:B11"
     }
   ],
   "dataGrid": [
@@ -236,6 +236,28 @@
         "type": 1,
         "typeFormat": null,
         "data": "30.0",
+        "mergedRange": null,
+        "mergedRangeDes": null
+      }
+    ],
+    [
+      {
+        "position": "A11",
+        "positionDes": "A,11",
+        "typeDes": "标准型数字",
+        "type": 1,
+        "typeFormat": null,
+        "data": "30.0",
+        "mergedRange": null,
+        "mergedRangeDes": null
+      },
+      {
+        "position": "B11",
+        "positionDes": "B,11",
+        "typeDes": "标准型数字",
+        "type": 1,
+        "typeFormat": null,
+        "data": "70.0",
         "mergedRange": null,
         "mergedRangeDes": null
       }
