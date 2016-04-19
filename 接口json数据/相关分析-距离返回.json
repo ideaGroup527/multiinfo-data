@@ -1,0 +1,799 @@
+{
+  "ret_code": "",
+  "ret_msg": "",
+  "ret_err": "",
+  "resDataMap": {
+    "产出": [
+      {
+        "产出": {
+          "squareEuclideanDistance": 0,
+          "chebyshevDistance": 0,
+          "cityBlockDistance": 0,
+          "euclideanDistance": 0,
+          "minkowskiDistace": 0
+        }
+      },
+      {
+        "投入": {
+          "squareEuclideanDistance": 6099.999999999999,
+          "chebyshevDistance": 40,
+          "cityBlockDistance": 230,
+          "euclideanDistance": 78.10249675906654,
+          "minkowskiDistace": 78.10249675906654
+        }
+      }
+    ],
+    "投入": [
+      {
+        "产出": {
+          "squareEuclideanDistance": 6099.999999999999,
+          "chebyshevDistance": 40,
+          "cityBlockDistance": 230,
+          "euclideanDistance": 78.10249675906654,
+          "minkowskiDistace": 78.10249675906654
+        }
+      },
+      {
+        "投入": {
+          "squareEuclideanDistance": 0,
+          "chebyshevDistance": 0,
+          "cityBlockDistance": 0,
+          "euclideanDistance": 0,
+          "minkowskiDistace": 0
+        }
+      }
+    ]
+  },
+  "basicDataMap": {
+    "产出": {
+      "max": null,
+      "min": null,
+      "arithmeticMean": 45,
+      "variance": null,
+      "standardDeviation": null,
+      "total": null,
+      "median": null,
+      "skewness": null,
+      "kurtosis": null,
+      "percentiles": null,
+      "count": 10,
+      "errPercentiles": null
+    },
+    "投入": {
+      "max": null,
+      "min": null,
+      "arithmeticMean": 22,
+      "variance": null,
+      "standardDeviation": null,
+      "total": null,
+      "median": null,
+      "skewness": null,
+      "kurtosis": null,
+      "percentiles": null,
+      "count": 10,
+      "errPercentiles": null
+    }
+  },
+  "unitDataArr": [
+    [
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 1300,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 36.05551275463989,
+        "minkowskiDistace": 36.05551275463989
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 1000,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 31.622776601683793,
+        "minkowskiDistace": 31.622776601683793
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 400,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 20,
+        "minkowskiDistace": 20
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 1700.0000000000002,
+        "chebyshevDistance": 40,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 41.23105625617661,
+        "minkowskiDistace": 41.23105625617661
+      }
+    ],
+    [
+      {
+        "squareEuclideanDistance": 1300,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 36.05551275463989,
+        "minkowskiDistace": 36.05551275463989
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 800.0000000000001,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 28.284271247461902,
+        "minkowskiDistace": 28.284271247461902
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 1800.0000000000002,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 60,
+        "euclideanDistance": 42.42640687119285,
+        "minkowskiDistace": 42.42640687119285
+      },
+      {
+        "squareEuclideanDistance": 1300,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 36.05551275463989,
+        "minkowskiDistace": 36.05551275463989
+      },
+      {
+        "squareEuclideanDistance": 800.0000000000001,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 28.284271247461902,
+        "minkowskiDistace": 28.284271247461902
+      },
+      {
+        "squareEuclideanDistance": 500.00000000000006,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 30,
+        "euclideanDistance": 22.360679774997898,
+        "minkowskiDistace": 22.360679774997898
+      },
+      {
+        "squareEuclideanDistance": 1300,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 36.05551275463989,
+        "minkowskiDistace": 36.05551275463989
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      }
+    ],
+    [
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 800.0000000000001,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 28.284271247461902,
+        "minkowskiDistace": 28.284271247461902
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 500.00000000000006,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 30,
+        "euclideanDistance": 22.360679774997898,
+        "minkowskiDistace": 22.360679774997898
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 1000,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 31.622776601683793,
+        "minkowskiDistace": 31.622776601683793
+      }
+    ],
+    [
+      {
+        "squareEuclideanDistance": 1000,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 31.622776601683793,
+        "minkowskiDistace": 31.622776601683793
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 500.00000000000006,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 30,
+        "euclideanDistance": 22.360679774997898,
+        "minkowskiDistace": 22.360679774997898
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 1300,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 36.05551275463989,
+        "minkowskiDistace": 36.05551275463989
+      },
+      {
+        "squareEuclideanDistance": 800.0000000000001,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 28.284271247461902,
+        "minkowskiDistace": 28.284271247461902
+      },
+      {
+        "squareEuclideanDistance": 500.00000000000006,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 30,
+        "euclideanDistance": 22.360679774997898,
+        "minkowskiDistace": 22.360679774997898
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 1000,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 31.622776601683793,
+        "minkowskiDistace": 31.622776601683793
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      }
+    ],
+    [
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 1800.0000000000002,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 60,
+        "euclideanDistance": 42.42640687119285,
+        "minkowskiDistace": 42.42640687119285
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 1300,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 36.05551275463989,
+        "minkowskiDistace": 36.05551275463989
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 500.00000000000006,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 30,
+        "euclideanDistance": 22.360679774997898,
+        "minkowskiDistace": 22.360679774997898
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 2000.0000000000002,
+        "chebyshevDistance": 40,
+        "cityBlockDistance": 60,
+        "euclideanDistance": 44.721359549995796,
+        "minkowskiDistace": 44.721359549995796
+      }
+    ],
+    [
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 1300,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 36.05551275463989,
+        "minkowskiDistace": 36.05551275463989
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 800.0000000000001,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 28.284271247461902,
+        "minkowskiDistace": 28.284271247461902
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 1300,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 36.05551275463989,
+        "minkowskiDistace": 36.05551275463989
+      }
+    ],
+    [
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 800.0000000000001,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 28.284271247461902,
+        "minkowskiDistace": 28.284271247461902
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 500.00000000000006,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 30,
+        "euclideanDistance": 22.360679774997898,
+        "minkowskiDistace": 22.360679774997898
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 1000,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 31.622776601683793,
+        "minkowskiDistace": 31.622776601683793
+      }
+    ],
+    [
+      {
+        "squareEuclideanDistance": 400,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 20,
+        "minkowskiDistace": 20
+      },
+      {
+        "squareEuclideanDistance": 500.00000000000006,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 30,
+        "euclideanDistance": 22.360679774997898,
+        "minkowskiDistace": 22.360679774997898
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 500.00000000000006,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 30,
+        "euclideanDistance": 22.360679774997898,
+        "minkowskiDistace": 22.360679774997898
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 400,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 20,
+        "minkowskiDistace": 20
+      },
+      {
+        "squareEuclideanDistance": 500.00000000000006,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 30,
+        "euclideanDistance": 22.360679774997898,
+        "minkowskiDistace": 22.360679774997898
+      }
+    ],
+    [
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 1300,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 36.05551275463989,
+        "minkowskiDistace": 36.05551275463989
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 1000,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 31.622776601683793,
+        "minkowskiDistace": 31.622776601683793
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 400,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 20,
+        "minkowskiDistace": 20
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      },
+      {
+        "squareEuclideanDistance": 1700.0000000000002,
+        "chebyshevDistance": 40,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 41.23105625617661,
+        "minkowskiDistace": 41.23105625617661
+      }
+    ],
+    [
+      {
+        "squareEuclideanDistance": 1700.0000000000002,
+        "chebyshevDistance": 40,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 41.23105625617661,
+        "minkowskiDistace": 41.23105625617661
+      },
+      {
+        "squareEuclideanDistance": 200.00000000000003,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 20,
+        "euclideanDistance": 14.142135623730951,
+        "minkowskiDistace": 14.142135623730951
+      },
+      {
+        "squareEuclideanDistance": 1000,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 31.622776601683793,
+        "minkowskiDistace": 31.622776601683793
+      },
+      {
+        "squareEuclideanDistance": 100,
+        "chebyshevDistance": 10,
+        "cityBlockDistance": 10,
+        "euclideanDistance": 10,
+        "minkowskiDistace": 10
+      },
+      {
+        "squareEuclideanDistance": 2000.0000000000002,
+        "chebyshevDistance": 40,
+        "cityBlockDistance": 60,
+        "euclideanDistance": 44.721359549995796,
+        "minkowskiDistace": 44.721359549995796
+      },
+      {
+        "squareEuclideanDistance": 1300,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 36.05551275463989,
+        "minkowskiDistace": 36.05551275463989
+      },
+      {
+        "squareEuclideanDistance": 1000,
+        "chebyshevDistance": 30,
+        "cityBlockDistance": 40,
+        "euclideanDistance": 31.622776601683793,
+        "minkowskiDistace": 31.622776601683793
+      },
+      {
+        "squareEuclideanDistance": 500.00000000000006,
+        "chebyshevDistance": 20,
+        "cityBlockDistance": 30,
+        "euclideanDistance": 22.360679774997898,
+        "minkowskiDistace": 22.360679774997898
+      },
+      {
+        "squareEuclideanDistance": 1700.0000000000002,
+        "chebyshevDistance": 40,
+        "cityBlockDistance": 50,
+        "euclideanDistance": 41.23105625617661,
+        "minkowskiDistace": 41.23105625617661
+      },
+      {
+        "squareEuclideanDistance": 0,
+        "chebyshevDistance": 0,
+        "cityBlockDistance": 0,
+        "euclideanDistance": 0,
+        "minkowskiDistace": 0
+      }
+    ]
+  ]
+}
