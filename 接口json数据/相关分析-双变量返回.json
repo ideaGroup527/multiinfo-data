@@ -1,0 +1,93 @@
+{
+  "ret_code": "",
+  "ret_msg": "",
+  "ret_err": "",
+  "resDataMap": {
+    "产出": [
+      {
+        "产出": {
+          "pearsonR": 1,
+          "pearsonT": "Infinity",
+          "spearmanR": 1,
+          "spearmanT": "Infinity",
+          "n": 10,
+          "croProSumSq": 1850,
+          "covariance": 205.55555555555557,
+          "sigTwo": null,
+          "sigOne": null
+        }
+      },
+      {
+        "投入": {
+          "pearsonR": 0.7590141093600838,
+          "pearsonT": 3.2973448745129024,
+          "spearmanR": 0.7636363636363637,
+          "spearmanT": 3.345312864320814,
+          "n": 10,
+          "croProSumSq": 900,
+          "covariance": 100,
+          "sigTwo": null,
+          "sigOne": null
+        }
+      }
+    ],
+    "投入": [
+      {
+        "产出": {
+          "pearsonR": 0.7590141093600838,
+          "pearsonT": 3.2973448745129024,
+          "spearmanR": 0.7636363636363637,
+          "spearmanT": 3.345312864320814,
+          "n": 10,
+          "croProSumSq": 900,
+          "covariance": 100,
+          "sigTwo": null,
+          "sigOne": null
+        }
+      },
+      {
+        "投入": {
+          "pearsonR": 1,
+          "pearsonT": "Infinity",
+          "spearmanR": 1,
+          "spearmanT": "Infinity",
+          "n": 10,
+          "croProSumSq": 760,
+          "covariance": 84.44444444444444,
+          "sigTwo": null,
+          "sigOne": null
+        }
+      }
+    ]
+  },
+  "basicDataMap": {
+    "产出": {
+      "max": null,
+      "min": null,
+      "arithmeticMean": 45,
+      "variance": null,
+      "standardDeviation": 14.337208778404378,
+      "total": null,
+      "median": null,
+      "skewness": null,
+      "kurtosis": null,
+      "percentiles": null,
+      "count": 10,
+      "errPercentiles": null
+    },
+    "投入": {
+      "max": null,
+      "min": null,
+      "arithmeticMean": 22,
+      "variance": null,
+      "standardDeviation": 9.189365834726814,
+      "total": null,
+      "median": null,
+      "skewness": null,
+      "kurtosis": null,
+      "percentiles": null,
+      "count": 10,
+      "errPercentiles": null
+    }
+  }
+}
