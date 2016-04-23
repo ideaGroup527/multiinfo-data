@@ -6,15 +6,15 @@
 		"北京": {
 			"湿度": {
 				"resultData": {
-					"max": 20.4,
-					"min": 20.4,
-					"arithmeticMean": 20.4,
-					"variance": 0.0,
-					"standardDeviation": null,
-					"total": 20.4,
-					"median": 20.4,
-					"skewness": null,
-					"kurtosis": "NaN",
+					"max": 20.4, //最大值
+					"min": 20.4,//最小值
+					"arithmeticMean": 20.4,//均值
+					"variance": 0.0,//方差
+					"standardDeviation": null,//标准差
+					"total": 20.4,//合计
+					"median": 20.4,//中位数
+					"skewness": null,//偏度
+					"kurtosis": "NaN",//峰度
 					"count": null
 				},
 				"varietyName": null,
