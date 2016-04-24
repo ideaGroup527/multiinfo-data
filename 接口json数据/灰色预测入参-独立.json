@@ -1,0 +1,1160 @@
+{"associationType":0,
+"formCoefficient":0.4,
+	"dataGrid": [[{
+		"position": "A1",
+		"positionDes": "A,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "B1",
+		"positionDes": "B,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "1月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "C1",
+		"positionDes": "C,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "2月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "D1",
+		"positionDes": "D,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "3月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "E1",
+		"positionDes": "E,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "4月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "F1",
+		"positionDes": "F,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "5月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "G1",
+		"positionDes": "G,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "6月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "H1",
+		"positionDes": "H,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "7月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "I1",
+		"positionDes": "I,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "8月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "J1",
+		"positionDes": "J,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "9月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "K1",
+		"positionDes": "K,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "10月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "L1",
+		"positionDes": "L,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "11月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "M1",
+		"positionDes": "M,1",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"data": "12月",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	}],
+	[{
+		"position": "A2",
+		"positionDes": "A,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "1997.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "B2",
+		"positionDes": "B,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "83.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "C2",
+		"positionDes": "C,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "79.8",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "D2",
+		"positionDes": "D,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "78.1",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "E2",
+		"positionDes": "E,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "85.1",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "F2",
+		"positionDes": "F,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "86.6",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "G2",
+		"positionDes": "G,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "88.2",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "H2",
+		"positionDes": "H,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "90.3",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "I2",
+		"positionDes": "I,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "86.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "J2",
+		"positionDes": "J,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "93.3",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "K2",
+		"positionDes": "K,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "92.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "L2",
+		"positionDes": "L,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "90.9",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "M2",
+		"positionDes": "M,2",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "96.9",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	}],
+	[{
+		"position": "A3",
+		"positionDes": "A,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "1998.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "B3",
+		"positionDes": "B,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "101.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "C3",
+		"positionDes": "C,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "85.1",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "D3",
+		"positionDes": "D,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "87.8",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "E3",
+		"positionDes": "E,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "91.6",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "F3",
+		"positionDes": "F,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "93.4",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "G3",
+		"positionDes": "G,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "94.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "H3",
+		"positionDes": "H,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "97.4",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "I3",
+		"positionDes": "I,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "99.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "J3",
+		"positionDes": "J,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "104.2",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "K3",
+		"positionDes": "K,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "102.3",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "L3",
+		"positionDes": "L,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "101.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "M3",
+		"positionDes": "M,3",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "123.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	}],
+	[{
+		"position": "A4",
+		"positionDes": "A,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "1999.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "B4",
+		"positionDes": "B,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "92.2",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "C4",
+		"positionDes": "C,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "114.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "D4",
+		"positionDes": "D,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "93.3",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "E4",
+		"positionDes": "E,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "101.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "F4",
+		"positionDes": "F,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "103.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "G4",
+		"positionDes": "G,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "105.2",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "H4",
+		"positionDes": "H,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "109.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "I4",
+		"positionDes": "I,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "109.2",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "J4",
+		"positionDes": "J,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "109.6",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "K4",
+		"positionDes": "K,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "111.2",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "L4",
+		"positionDes": "L,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "121.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "M4",
+		"positionDes": "M,4",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "131.3",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	}],
+	[{
+		"position": "A5",
+		"positionDes": "A,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "2000.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "B5",
+		"positionDes": "B,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "105.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "C5",
+		"positionDes": "C,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "125.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "D5",
+		"positionDes": "D,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "106.6",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "E5",
+		"positionDes": "E,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "116.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "F5",
+		"positionDes": "F,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "117.6",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "G5",
+		"positionDes": "G,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "118.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "H5",
+		"positionDes": "H,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "121.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "I5",
+		"positionDes": "I,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "118.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "J5",
+		"positionDes": "J,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "120.2",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "K5",
+		"positionDes": "K,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "127.8",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "L5",
+		"positionDes": "L,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "121.8",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "M5",
+		"positionDes": "M,5",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "121.9",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	}],
+	[{
+		"position": "A6",
+		"positionDes": "A,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "2001.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "B6",
+		"positionDes": "B,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "139.3",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "C6",
+		"positionDes": "C,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "129.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "D6",
+		"positionDes": "D,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "122.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "E6",
+		"positionDes": "E,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "124.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "F6",
+		"positionDes": "F,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "135.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "G6",
+		"positionDes": "G,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "130.8",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "H6",
+		"positionDes": "H,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "138.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "I6",
+		"positionDes": "I,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "133.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "J6",
+		"positionDes": "J,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "136.8",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "K6",
+		"positionDes": "K,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "138.9",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "L6",
+		"positionDes": "L,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "129.6",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "M6",
+		"positionDes": "M,6",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "133.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	}],
+	[{
+		"position": "A7",
+		"positionDes": "A,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "2002.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "B7",
+		"positionDes": "B,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "137.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "C7",
+		"positionDes": "C,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "135.3",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "D7",
+		"positionDes": "D,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "133.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "E7",
+		"positionDes": "E,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "133.4",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "F7",
+		"positionDes": "F,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "142.8",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "G7",
+		"positionDes": "G,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "141.6",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "H7",
+		"positionDes": "H,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "142.9",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "I7",
+		"positionDes": "I,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "147.3",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "J7",
+		"positionDes": "J,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "159.6",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "K7",
+		"positionDes": "K,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "162.1",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "L7",
+		"positionDes": "L,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "153.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "M7",
+		"positionDes": "M,7",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "155.9",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	}],
+	[{
+		"position": "A8",
+		"positionDes": "A,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "2003.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "B8",
+		"positionDes": "B,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "163.2",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "C8",
+		"positionDes": "C,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "159.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "D8",
+		"positionDes": "D,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "158.4",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "E8",
+		"positionDes": "E,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "145.2",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "F8",
+		"positionDes": "F,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "124.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "G8",
+		"positionDes": "G,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "144.1",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "H8",
+		"positionDes": "H,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "157.0",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "I8",
+		"positionDes": "I,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "162.6",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "J8",
+		"positionDes": "J,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "171.8",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "K8",
+		"positionDes": "K,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "180.7",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "L8",
+		"positionDes": "L,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "173.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	},
+	{
+		"position": "M8",
+		"positionDes": "M,8",
+		"typeDes": "标准型数字",
+		"type": 1,
+		"typeFormat": null,
+		"data": "176.5",
+		"mergedRange": null,
+		"mergedRangeDes": null
+	}]],
+	"factorVarVariable":{
+		"position": "A",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "年份",
+		"varietyDes": null,
+		"range": "A2:A7"
+	},
+	"independentVariable": [{
+		"position": "B",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "1月",
+		"varietyDes": null,
+		"range": "B2:B7"
+	},
+	{
+		"position": "C",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "2月",
+		"varietyDes": null,
+		"range": "C2:C7"
+	},
+	{
+		"position": "D",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "3月",
+		"varietyDes": null,
+		"range": "D2:D7"
+	},
+	{
+		"position": "E",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "4月",
+		"varietyDes": null,
+		"range": "E2:E7"
+	},
+	{
+		"position": "F",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "5月",
+		"varietyDes": null,
+		"range": "F2:F7"
+	},
+	{
+		"position": "G",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "6月",
+		"varietyDes": null,
+		"range": "G2:G7"
+	},
+	{
+		"position": "H",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "7月",
+		"varietyDes": null,
+		"range": "H2:H7"
+	},
+	{
+		"position": "I",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "8月",
+		"varietyDes": null,
+		"range": "I2:I7"
+	},
+	{
+		"position": "J",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "9月",
+		"varietyDes": null,
+		"range": "J2:J7"
+	},
+	{
+		"position": "K",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "10月",
+		"varietyDes": null,
+		"range": "K2:K7"
+	},
+	{
+		"position": "L",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "11月",
+		"varietyDes": null,
+		"range": "L2:L7"
+	},
+	{
+		"position": "M",
+		"typeDes": "字符串型",
+		"type": 0,
+		"typeFormat": null,
+		"varietyName": "12月",
+		"varietyDes": null,
+		"range": "M2:M7"
+	}]
+}
