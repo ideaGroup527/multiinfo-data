@@ -1,4 +1,5 @@
-{
+{"associationType":0,
+"formCoefficient":0.4,
 	"dataGrid": [[{
 		"position": "A1",
 		"positionDes": "A,1",
@@ -1038,7 +1039,7 @@
 		"data": "176.5",
 		"mergedRange": null,
 		"mergedRangeDes": null
-	}]],"formCoefficient":0.4,
+	}]],
 	"factorVarVariable":{
 		"position": "A",
 		"typeDes": "字符串型",
