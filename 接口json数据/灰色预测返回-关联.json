@@ -1,0 +1,131 @@
+{
+  "ret_code": "0",
+  "ret_msg": "",
+  "ret_err": "",
+  "examineSuccess": true,
+  "resData": [
+    155.21516481681823,
+    157.7364981454047,
+    146.40228009820729,
+    153.54213055205517,
+    160.14001215957134,
+    159.83368194207955,
+    165.06485950232448,
+    163.79241090658923,
+    170.53167569140936,
+    173.14726447153186,
+    169.30635482144206,
+    179.83940153058396
+  ],
+  "pridictName": "2003.0",
+  "independVarList": [
+    {
+      "position": "B",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "1月",
+      "varietyDes": null,
+      "range": "B2:B7"
+    },
+    {
+      "position": "C",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "2月",
+      "varietyDes": null,
+      "range": "C2:C7"
+    },
+    {
+      "position": "D",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "3月",
+      "varietyDes": null,
+      "range": "D2:D7"
+    },
+    {
+      "position": "E",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "4月",
+      "varietyDes": null,
+      "range": "E2:E7"
+    },
+    {
+      "position": "F",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "5月",
+      "varietyDes": null,
+      "range": "F2:F7"
+    },
+    {
+      "position": "G",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "6月",
+      "varietyDes": null,
+      "range": "G2:G7"
+    },
+    {
+      "position": "H",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "7月",
+      "varietyDes": null,
+      "range": "H2:H7"
+    },
+    {
+      "position": "I",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "8月",
+      "varietyDes": null,
+      "range": "I2:I7"
+    },
+    {
+      "position": "J",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "9月",
+      "varietyDes": null,
+      "range": "J2:J7"
+    },
+    {
+      "position": "K",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "10月",
+      "varietyDes": null,
+      "range": "K2:K7"
+    },
+    {
+      "position": "L",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "11月",
+      "varietyDes": null,
+      "range": "L2:L7"
+    },
+    {
+      "position": "M",
+      "typeDes": "字符串型",
+      "type": 0,
+      "typeFormat": null,
+      "varietyName": "12月",
+      "varietyDes": null,
+      "range": "M2:M7"
+    }
+  ]
+}
