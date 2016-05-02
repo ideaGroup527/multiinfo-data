@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="gb2312"?>
+<web-app version="3.0" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <display-name></display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Fileupload</servlet-name>
+    <servlet-class>my_servlet.Fileupload</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Clustering</servlet-name>
+    <servlet-class>my_servlet.Clustering</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Showdata</servlet-name>
+    <servlet-class>my_servlet.Showdata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Draw</servlet-name>
+    <servlet-class>my_servlet.Draw</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Get_sheet</servlet-name>
+    <servlet-class>my_servlet.Get_sheet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Get_data</servlet-name>
+    <servlet-class>my_servlet.Get_data</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Get_table</servlet-name>
+    <servlet-class>my_servlet.Get_table</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>Fileupload</servlet-name>
+    <url-pattern>/servlet/Fileupload</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Clustering</servlet-name>
+    <url-pattern>/servlet/Clustering</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Showdata</servlet-name>
+    <url-pattern>/servlet/Showdata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Draw</servlet-name>
+    <url-pattern>/servlet/Draw</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Get_sheet</servlet-name>
+    <url-pattern>/servlet/Get_sheet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Get_data</servlet-name>
+    <url-pattern>/servlet/Get_data</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Get_table</servlet-name>
+    <url-pattern>/servlet/Get_table</url-pattern>
+  </servlet-mapping>
+
+  <welcome-file-list>
+    <welcome-file>Cluster.html</welcome-file>
+  </welcome-file-list>
+</web-app>

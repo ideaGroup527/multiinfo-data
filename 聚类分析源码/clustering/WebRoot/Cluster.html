@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <title>聚类分析WEB软件</title>
+    <style type="text/css">
+<!--
+.STYLE5 {font-family: "Courier New", Courier, monospace; color: #669900; }
+.STYLE7 {color: #999999}
+.STYLE9 {color: #FF3333}
+.STYLE10 {font-family: "Courier New", Courier, monospace; color: #669900; font-size: 24px; }
+.STYLE11 {
+	font-size: 18px;
+	color: #3300FF;
+}
+.STYLE1 {
+	font-size: x-large;
+	font-weight: bold;
+}
+-->
+    </style>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"></head>
+  
+  <body bgcolor="#DDDDDD">
+  <div align="center">
+    <h2 class="STYLE5" style="font-weight: normal;"><strong><font color="#008000">欢迎进入信息分析与预测中心，这里是聚类分析部分。</font></strong></h2>
+    <h4 class="STYLE10"><font size="4">Welcome to enter the information analysis and prediction center, and here is the Cluster Analysis section (<strong><font color="#ff0000">Version 1.0</font></strong><font color="#008000">)</font>.</font></h4>
+    <p class="STYLE11"><font size="6">请选择数据来源：</font></p>
+    <p class="STYLE11"><font size="6">Please select the data source:</font></p>
+	<div class="STYLE1" align="center">
+		<span style="FONT-WEIGHT: 400"><font size="4">
+		(用户事先应准备好自己需要做图的数据，数据库可以用Excel、SQL Server、Oracle和MySQL。</font></span><p>
+		<span style="FONT-WEIGHT: 400"><font size="4">如果用Excel，数据样例见<a href="http://210.34.136.253:8488/Sample_data.xls">实例Excel表</a>；采用其他数据库需要在下一步填入数据库的URL、用户名、密码。)</font></span></p>
+		<p><font size="4"><span style="FONT-WEIGHT: 400">(User must prepare the 
+		data for drawing the chart. The dadabase could be excel, SQL Server,
+		</span></font><span style="FONT-WEIGHT: 400"><font size="4">Oracle and 
+		MySQL</font></span><font size="4"><span style="FONT-WEIGHT: 400">.</span></font></p>
+		<p><font size="4"><span style="FONT-WEIGHT: 400">If excel is selected, 
+		the sample data is like &quot;<a href="http://210.34.136.253:8488/Sample_data.xls">sample 
+		excel file</a>&quot;. </span></font></p>
+		<p><font size="4"><span style="FONT-WEIGHT: 400">If you choose other 
+		database, you may fill in the URL, user name and passwrod. )</span></font></div>
+    <hr>
+    <form method="POST" name="form1" action="fileupload.jsp">
+	<input type="submit" value="Excel" name="B1">
+  </form>
+  <form method="POST" name="form2" action="DataBaseload.jsp">
+    <input type="submit" value="数据库(database)" name="B2">
+  </form>
+  </div>
+  <br>
+  <div align="center" class="STYLE7">
+    <p>　</p>
+    <p class="STYLE9">本软件还有许多不足之处请用户朋友多多包涵。</p>
+    <p class="STYLE9">The software also has many shortcomings, please bear with me.</p>
+  </div>
+  </body>
+</html>
