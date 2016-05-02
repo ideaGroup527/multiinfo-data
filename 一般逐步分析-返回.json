@@ -1,0 +1,26 @@
+{
+  "ret_code": "0",
+  "ret_msg": "",
+  "ret_err": "",
+  "residualSumOfSquares": 13803.157186206168,
+  "adjustedRSquared": null,
+  "totalSumOfSquares": null,
+  "errorVariance": null,
+  "regressandVariance": null,
+  "regressionStandardError": 31.399678326612303,
+  "regressionParameters": [
+    205.05939930335143,
+    0,
+    1.0998701870072158,
+    5.626029570884301,
+    1.3592694561060326
+  ],
+  "regressionParametersStandardErrors": null,
+  "ttests": null,
+  "residuals": null,
+  "f": 316.7903668259944,
+  "regressionDf": null,
+  "errorsDf": null,
+  "totalDf": null,
+  "rsquared": 0.9639240665887653
+}
