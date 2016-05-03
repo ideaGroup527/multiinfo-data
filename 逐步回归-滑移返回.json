@@ -1,0 +1,63 @@
+{
+  "ret_code": "0",
+  "ret_msg": "",
+  "ret_err": "",
+  "preData": {
+    "ret_code": "0",
+    "ret_msg": "",
+    "ret_err": "",
+    "residualSumOfSquares": 42082.21571736814,
+    "adjustedRSquared": null,
+    "totalSumOfSquares": null,
+    "errorVariance": null,
+    "regressandVariance": null,
+    "regressionStandardError": 54.82583835419739,
+    "regressionParameters": [
+      365.9006925236322,
+      0,
+      1.5274761550916185,
+      3.689558303655899,
+      0
+    ],
+    "regressionParametersStandardErrors": null,
+    "ttests": null,
+    "residuals": null,
+    "f": 1293.0727603653495,
+    "regressionDf": null,
+    "errorsDf": null,
+    "totalDf": null,
+    "rsquared": 0.8603643290409456
+  },
+  "backData": {
+    "ret_code": "0",
+    "ret_msg": "",
+    "ret_err": "",
+    "residualSumOfSquares": 18450.24015079671,
+    "adjustedRSquared": null,
+    "totalSumOfSquares": null,
+    "errorVariance": null,
+    "regressandVariance": null,
+    "regressionStandardError": 36.302538430328525,
+    "regressionParameters": [
+      141.8074030032085,
+      0,
+      0.5200534112624376,
+      8.387353626655614,
+      0
+    ],
+    "regressionParametersStandardErrors": null,
+    "ttests": null,
+    "residuals": null,
+    "f": 619.2061389079304,
+    "regressionDf": null,
+    "errorsDf": null,
+    "totalDf": null,
+    "rsquared": 0.9397044020954598
+  },
+  "preForecast": {
+    "1999.0": 936.7858572370344
+  },
+  "backForecast": {
+    "1980.0": 269.69792104809244
+  }
+}
