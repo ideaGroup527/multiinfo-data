@@ -1,0 +1,34 @@
+{
+  "ret_code": "0",
+  "ret_msg": "",
+  "ret_err": "",
+  "stepList": [
+    {
+      "data": 0.9975807539040444,
+      "rowIndex": 1,
+      "colIndex": 5
+    },
+    {
+      "data": 0.9917959138067758,
+      "rowIndex": 2,
+      "colIndex": 4
+    },
+    {
+      "data": 0.9887618321724942,
+      "rowIndex": 1,
+      "colIndex": 3
+    },
+    {
+      "data": 0.9808178317536229,
+      "rowIndex": 1,
+      "colIndex": 2
+    }
+  ],
+  "factorVarList": [
+    "居民可支配收入",
+    "该类消费品价格指数",
+    "社会保有量",
+    "其他消费品平均价格指数",
+    "销售量"
+  ]
+}
