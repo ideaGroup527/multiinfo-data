@@ -2,14 +2,14 @@
   "ret_code": "0",
   "ret_msg": "",
   "ret_err": "",
-  "residualSumOfSquares": 13803.157186206168,
+  "residualSumOfSquares": 13803.157186206168,//残差平方和
   "adjustedRSquared": null,
   "totalSumOfSquares": null,
   "errorVariance": null,
   "regressandVariance": null,
-  "regressionStandardError": 31.399678326612303,
-  "regressionParameters": [
-    205.05939930335143,
+  "regressionStandardError": 31.399678326612303,//最后得到的逐步回归方程的“标准估计的误差”
+  "regressionParameters": [//逐步回归方程的系数表
+    205.05939930335143,//常量
     0,
     1.0998701870072158,
     5.626029570884301,
@@ -18,9 +18,9 @@
   "regressionParametersStandardErrors": null,
   "ttests": null,
   "residuals": null,
-  "f": 316.7903668259944,
+  "f": 316.7903668259944,//f值
   "regressionDf": null,
   "errorsDf": null,
   "totalDf": null,
-  "rsquared": 0.9639240665887653
+  "rsquared": 0.9639240665887653//r方
 }
