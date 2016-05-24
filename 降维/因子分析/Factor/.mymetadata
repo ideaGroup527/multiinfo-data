@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Factor"
+  id="myeclipse.1341825214910"
+  context-root="/Factor"
+  j2ee-spec="5.0"
+  archive="Factor.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
