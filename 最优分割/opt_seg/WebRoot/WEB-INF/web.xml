@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee   http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+  <context-param>
+    <param-name>javax.faces.CONFIG_FILES</param-name>
+    <param-value>/WEB-INF/faces-config.xml</param-value>
+  </context-param>
+  
+    <filter>
+    <filter-name>TomcatFormFilter</filter-name>
+    <filter-class>com.kxm.filter.TomcatFormFilter</filter-class>
+    </filter>
+    
+    <filter-mapping>
+    <filter-name>TomcatFormFilter</filter-name>
+    <url-pattern>*.jsp</url-pattern>
+    </filter-mapping>
+  
+  <servlet>
+    <servlet-name>Faces Servlet</servlet-name>
+    <servlet-class>javax.faces.webapp.FacesServlet</servlet-class>
+    <load-on-startup>0</load-on-startup>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ChooseData</servlet-name>
+    <servlet-class>com.kxm.servlet.getdata.ChooseData</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetExcelWorkBook</servlet-name>
+    <servlet-class>com.kxm.servlet.getdata.GetExcelWorkBook</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetTableMessage</servlet-name>
+    <servlet-class>com.kxm.servlet.getdata.GetTableMessage</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetTableName</servlet-name>
+    <servlet-class>com.kxm.servlet.getdata.GetTableName</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ReadExcel</servlet-name>
+    <servlet-class>com.kxm.servlet.getdata.ReadExcel</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TableData</servlet-name>
+    <servlet-class>com.kxm.servlet.getdata.TableData</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DoCut</servlet-name>
+    <servlet-class>com.kxm.servlet.cut.DoCut</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DisplayChart</servlet-name>
+    <servlet-class>org.jfree.chart.servlet.DisplayChart</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FinalChoose</servlet-name>
+    <servlet-class>com.kxm.servlet.cut.FinalChoose</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FinalResult</servlet-name>
+    <servlet-class>com.kxm.servlet.cut.FinalResult</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ChooseExcelTable</servlet-name>
+    <servlet-class>com.kxm.servlet.getdata.ChooseExcelTable</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TableOneDownload</servlet-name>
+    <servlet-class>com.kxm.servlet.download.TableOneDownload</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DownloadMidResTable</servlet-name>
+    <servlet-class>com.kxm.servlet.download.DownloadMidResTable</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DownloadDingTable</servlet-name>
+    <servlet-class>com.kxm.servlet.download.DownloadDingTable</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+<servlet-mapping>
+<servlet-name>DisplayChart</servlet-name>
+<url-pattern>/DisplayChart</url-pattern>
+</servlet-mapping>
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>Faces Servlet</servlet-name>
+    <url-pattern>*.faces</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ChooseData</servlet-name>
+    <url-pattern>/chooseData</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetExcelWorkBook</servlet-name>
+    <url-pattern>/getExcelWorkBook</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetTableMessage</servlet-name>
+    <url-pattern>/getTableMessage</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetTableName</servlet-name>
+    <url-pattern>/getTableName</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ReadExcel</servlet-name>
+    <url-pattern>/readExcel</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TableData</servlet-name>
+    <url-pattern>/tableData</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DoCut</servlet-name>
+    <url-pattern>/doCut</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FinalChoose</servlet-name>
+    <url-pattern>/finalChoose</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FinalResult</servlet-name>
+    <url-pattern>/finalResult</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ChooseExcelTable</servlet-name>
+    <url-pattern>/chooseExcelTable</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TableOneDownload</servlet-name>
+    <url-pattern>/tableOneDownload</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DownloadMidResTable</servlet-name>
+    <url-pattern>/downloadMidResTable</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DownloadDingTable</servlet-name>
+    <url-pattern>/downloadDingTable</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
+
+

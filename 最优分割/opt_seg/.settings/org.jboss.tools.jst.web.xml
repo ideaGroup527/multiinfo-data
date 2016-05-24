@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file-systems model-entity="FileSystems" workspace-home="./WebRoot/WEB-INF">
+ <file-system NAME="Cut1228" location="%eclipse.project%" model-entity="FileSystemFolder"/>
+ <file-system NAME="src" location="%workspace.home%/../../test" model-entity="FileSystemFolder"/>
+ <file-system NAME="src-1" location="%workspace.home%/../../src" model-entity="FileSystemFolder"/>
+ <web model-entity="JstWeb"/>
+</file-systems>

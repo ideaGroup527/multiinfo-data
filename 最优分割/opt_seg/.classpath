@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.genuitec.eclipse.j2eedt.core.J2EE14_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.jsf.MYECLIPSE_JSF_RI_1_1_01"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jcommon-0.9.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jfreechart-0.9.21.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jtds-1.2.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jspsmartupload.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/poi.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
