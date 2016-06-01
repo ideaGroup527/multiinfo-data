@@ -1,0 +1,112 @@
+{
+  "ret_code": "0",
+  "ret_msg": "",
+  "ret_err": "",
+  "stepList": [
+	{
+	  "data": 0.9990525896016323,
+	  "rowIndex": 2,
+	  "colIndex": 1
+	},
+	{
+	  "data": 0.9977326203114767,
+	  "rowIndex": 4,
+	  "colIndex": 3
+	},
+	{
+	  "data": 0.997354243935296,
+	  "rowIndex": 5,
+	  "colIndex": 4
+	},
+	{
+	  "data": 0.9952251144429267,
+	  "rowIndex": 3,
+	  "colIndex": 2
+	}
+  ],
+  "factorVarList": [
+	"82.9",
+	"88.0",
+	"99.9",
+	"105.3",
+	"117.7",
+	"131.0",
+	"148.2",
+	"161.8",
+	"174.2",
+	"184.0"
+  ],
+  "tree": {
+	"root": {
+	  "lefTreeNode": {
+		"lefTreeNode": {
+		  "lefTreeNode": null,
+		  "rightNode": null,
+		  "value": {
+			"data": null,
+			"pos": 1
+		  }
+		},
+		"rightNode": {
+		  "lefTreeNode": null,
+		  "rightNode": null,
+		  "value": {
+			"data": null,
+			"pos": 2
+		  }
+		},
+		"value": {
+		  "data": 0.9990525896016323,
+		  "pos": 1
+		}
+	  },
+	  "rightNode": {
+		"lefTreeNode": {
+		  "lefTreeNode": {
+			"lefTreeNode": null,
+			"rightNode": null,
+			"value": {
+			  "data": null,
+			  "pos": 3
+			}
+		  },
+		  "rightNode": {
+			"lefTreeNode": null,
+			"rightNode": null,
+			"value": {
+			  "data": null,
+			  "pos": 4
+			}
+		  },
+		  "value": {
+			"data": 0.9977326203114767,
+			"pos": 3
+		  }
+		},
+		"rightNode": {
+		  "lefTreeNode": null,
+		  "rightNode": null,
+		  "value": {
+			"data": null,
+			"pos": 5
+		  }
+		},
+		"value": {
+		  "data": 0.997354243935296,
+		  "pos": 4
+		}
+	  },
+	  "value": {
+		"data": 0.9952251144429267,
+		"pos": 2
+	  }
+	}
+  },
+  "orderStepList": [
+	1,
+	2,
+	3,
+	4,
+	5
+  ]
+}
